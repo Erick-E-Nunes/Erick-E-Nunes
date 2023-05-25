@@ -4,6 +4,12 @@
 - 🌱 Estudando HTML, CSS e JS
 - 📫 Contate-me no email: erickjsom12@gmail.com
 
+<div align="center">
+  
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-nunes-/) 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
