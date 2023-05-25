@@ -1,4 +1,4 @@
-### Olá! Eu sou o Érick Nunes👋
+### Olá! Eu sou o Érick Nunes👋:wave:
 
 <hr>
 
