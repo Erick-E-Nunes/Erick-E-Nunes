@@ -2,6 +2,8 @@
 
 <hr>
 
+<img align="right" width="80" src="https://github.com/Erick-E-Nunes/Erick-E-Nunes/assets/133081633/2fcecd6a-2ab1-4475-a2ba-b9553ac69344"/>
+
 <ul type="square">
     <li>🔭 Atualmente aprendendo Front-end</li>
     <li>🌱 Estudando HTML, CSS e JS</li>
